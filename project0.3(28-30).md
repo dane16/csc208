@@ -40,3 +40,5 @@ The proper way to write the cardinality of set's A and B would be |A| = 4 |B| = 
 
 ### Text Book Example:
 <img width="515" alt="Screenshot 2024-02-06 at 6 23 28 AM" src="https://github.com/dane16/csc208/assets/143615445/b02c34bd-0433-47e1-b6f3-1af7c8091757">
+
+### Next Slide: https://github.com/PLUNGERwasTaken/csc208/blob/main/OperationsOnSet.md
