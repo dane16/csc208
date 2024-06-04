@@ -9,6 +9,7 @@ from this, solving this we get F = 2. This proves how a connected planar graph w
 
 ## Problem 5 ##
 Is there a connected planar graph with an odd number of faces where every vertex has degree 6.
+
 It is not possible for this to occur, we start proving this by determining a relation between the degrees and edges, applying the handshake lemma this will get us 6V = 2E
 From this we conclude that E = 6V/2 which equals E = 3V. Subsitutuing this value in into Euler's formula gives us V - (3V) + F = 2 resulting in -2V + F = 2.
 Considering that F is odd, we can now make the question -2V + (Odd Number) = (Even Number) 2, this shows how this is not possible as a odd number minus an even (twice the number of vertices)
@@ -16,6 +17,7 @@ number cannot result in another even number.
 
 ## Problem 6 ##
 I'm thinking of a polyhedron containing 12 faces. Seven are triangles and four are quadralaterals. The polyhedron has 11 vertices including those around the mystery face. 
-How many sides does the last face have?#
+How many sides does the last face have?
+
 (Refrencing Jeff's example) First we find the total number of edges, whuch would be (7 x 3 + 4 x 4 + n)/2 = (37 + n)/2. Knowing that the last face must have a odd number of edges. 
 v = 11 is given, so applying Eulers forumla would result in the equation 11 - (37 + n)/2 + 12 = 2 which results in n = 5, meaning the last face is a pentagon. 
