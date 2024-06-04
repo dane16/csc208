@@ -1,7 +1,7 @@
 ## Chapter 4 Problems 4-6 ##
 
 ### Problem 4 ###
-Is it possile for a graph with 10 vertices and edges to be a connected planar graph? Explain.
+Is it possible for a graph with 10 vertices and edges to be a connected planar graph? Explain.
 
 It is possible for a graph with 10 vertices and edges to be a connected planar graph, while I wont be using a specific graph, I will explain why this would work.
 Since the Euler's forumula for planar graph is v - e + f = 2, we can subsitute the values 10 for both the vertices and edges as given, we get the equation 10- 10 + F = 2
