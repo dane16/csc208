@@ -11,7 +11,7 @@ from this, solving this we get F = 2. This proves how a connected planar graph w
 Is there a connected planar graph with an odd number of faces where every vertex has degree 6.
 
 It is not possible for this to occur, we start proving this by determining a relation between the degrees and edges, applying the handshake lemma this will get us 6V = 2E
-According to the handshake lemma, this total degree is also equal to twice the number of edges 
+(According to the handshake lemma, this total degree is also equal to twice the number of edges)
 From this we conclude that E = 6V/2 which equals E = 3V. Subsitutuing this value in into Euler's formula gives us V - (3V) + F = 2 resulting in -2V + F = 2.
 Considering that F is odd, we can now make the question -2V + (Odd Number) = (Even Number) 2, this shows how this is not possible as a odd number minus an even (twice the number of vertices)
 number cannot result in another even number. 
