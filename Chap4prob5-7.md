@@ -21,3 +21,6 @@ How many sides does the last face have?
 
 (Refrencing Jeff's example) First we find the total number of edges, whuch would be (7 x 3 + 4 x 4 + n)/2 = (37 + n)/2. Knowing that the last face must have a odd number of edges. 
 v = 11 is given, so applying Eulers forumla would result in the equation 11 - (37 + n)/2 + 12 = 2 which results in n = 5, meaning the last face is a pentagon. 
+
+### Adonis's Repo ###
+https://github.com/Donworks/csc208/blob/main/Questions%207%2C%208%2C%209.md
